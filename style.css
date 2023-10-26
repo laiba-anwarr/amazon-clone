@@ -27,7 +27,7 @@ border:1.5px solid white;
     width: 113px;
 }
 #logo{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("./images/amazon_logo.png");
     background-size:cover ;
     height:50px;
     width:113px;
@@ -172,7 +172,7 @@ font-size: 0.89rem;
 /* hero section */
 
 #hero{
-    background-image: url("/images/hero_image\ \(1\).jpg");
+    background-image: url("./images/hero_image\ \(1\).jpg");
     background-size: cover;
     height: 500px;
     width:100%;
@@ -229,7 +229,7 @@ margin-bottom: 20px;
     cursor: pointer;
 }
 #box1-img{
-    background-image: url("/images/box1_image.jpg");
+    background-image: url("./images/box1_image.jpg");
 background-size: cover;
 height:300px;
 margin-top:15px;
@@ -238,7 +238,7 @@ margin-bottom: 15px;
 }
 #box2-img
 {
-background-image: url("/images/box2_image.jpg");
+background-image: url("./images/box2_image.jpg");
 background-size: cover;
 height:300px;
 margin-top:15px;
@@ -255,7 +255,7 @@ font-size: 1.3rem;
 
 }
 #box3-img{
-    background-image: url("/images/box3_image.jpg");
+    background-image: url("./images/box3_image.jpg");
     background-size: cover;
     height:300px;
     margin-top:15px;
@@ -263,7 +263,7 @@ font-size: 1.3rem;
     
 }
 #box4-img{
-    background-image: url("/images/box4_image.jpg");
+    background-image: url("./images/box4_image.jpg");
     background-size: cover;
     height:300px;
     margin-top:15px;
@@ -271,7 +271,7 @@ font-size: 1.3rem;
     
 }
 #box5-img{
-    background-image: url("/images/box5_image.jpg");
+    background-image: url("./images/box5_image.jpg");
     background-size: cover;
     height:300px;
     margin-top:15px;
@@ -279,7 +279,7 @@ font-size: 1.3rem;
     
 }
 #box6-img{
-    background-image: url("/images/box6_image.jpg");
+    background-image: url("./images/box6_image.jpg");
     background-size: cover;
     height:300px;
     margin-top:15px;
@@ -287,7 +287,7 @@ font-size: 1.3rem;
     
 }
 #box7-img{
-    background-image: url("/images/box7_image.jpg");
+    background-image: url("./images/box7_image.jpg");
     background-size: cover;
     height:300px;
     margin-top:15px;
@@ -295,7 +295,7 @@ font-size: 1.3rem;
     
 }
 #box8-img{
-    background-image: url("/images/box8_image\ \(1\).jpg");
+    background-image: url("./images/box8_image\ \(1\).jpg");
     background-size: cover;
     height:300px;
     margin-top:15px;
@@ -454,7 +454,7 @@ margin-top: 10px;
 /* lower footer */
 
 #lower-img {
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("./images/amazon_logo.png");
     height: 68px;
     width:120px;
     background-size: cover;
